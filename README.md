@@ -79,6 +79,7 @@ Approach :
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -218,6 +219,7 @@ Approach :
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
