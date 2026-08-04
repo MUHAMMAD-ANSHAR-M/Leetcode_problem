@@ -76,6 +76,7 @@ Approach :
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -89,6 +90,7 @@ Approach :
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
@@ -188,4 +190,8 @@ Approach :
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
