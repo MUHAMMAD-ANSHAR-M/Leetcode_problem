@@ -66,6 +66,7 @@ Approach :
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0260-single-number-iii) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -129,6 +130,7 @@ Approach :
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -159,4 +161,8 @@ Approach :
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
