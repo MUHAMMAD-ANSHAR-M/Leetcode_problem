@@ -84,6 +84,7 @@ Approach :
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -109,6 +110,7 @@ Approach :
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
