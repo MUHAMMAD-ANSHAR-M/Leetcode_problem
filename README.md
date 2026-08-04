@@ -124,6 +124,7 @@ Approach :
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,6 +148,7 @@ Approach :
 | ------- |
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
 ## Quicksort
 |  |
