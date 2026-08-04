@@ -71,6 +71,7 @@ Approach :
 | [0137-single-number-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@ Approach :
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
