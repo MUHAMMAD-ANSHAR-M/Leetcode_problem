@@ -55,6 +55,7 @@ Approach :
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ Approach :
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
