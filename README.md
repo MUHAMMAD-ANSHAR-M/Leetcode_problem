@@ -67,4 +67,8 @@ Approach :
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
