@@ -71,5 +71,18 @@ Approach :
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
