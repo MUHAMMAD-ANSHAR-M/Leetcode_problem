@@ -65,6 +65,7 @@ Approach :
 | [0137-single-number-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +133,7 @@ Approach :
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -145,6 +147,7 @@ Approach :
 | ------- |
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
