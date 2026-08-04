@@ -65,6 +65,7 @@ Approach :
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0260-single-number-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
@@ -86,6 +87,7 @@ Approach :
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -130,6 +132,7 @@ Approach :
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 ## Greedy
