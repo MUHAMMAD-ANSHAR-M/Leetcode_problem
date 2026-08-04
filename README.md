@@ -61,6 +61,7 @@ Approach :
 | [0027-remove-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ Approach :
 | [0004-median-of-two-sorted-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
