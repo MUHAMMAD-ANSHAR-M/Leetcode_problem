@@ -55,6 +55,7 @@ Approach :
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -169,6 +170,7 @@ Approach :
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
