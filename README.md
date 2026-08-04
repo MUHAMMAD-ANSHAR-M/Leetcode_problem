@@ -55,6 +55,7 @@ Approach :
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -130,6 +131,7 @@ Approach :
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 ## String
 |  |
