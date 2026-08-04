@@ -98,6 +98,7 @@ Approach :
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0069-sqrtx) |
@@ -189,6 +190,7 @@ Approach :
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0260-single-number-iii) |
