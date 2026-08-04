@@ -110,6 +110,7 @@ Approach :
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
