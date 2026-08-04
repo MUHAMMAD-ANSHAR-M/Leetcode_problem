@@ -80,6 +80,7 @@ Approach :
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -106,6 +107,7 @@ Approach :
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
