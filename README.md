@@ -55,6 +55,7 @@ Approach :
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -119,6 +120,7 @@ Approach :
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
@@ -130,6 +132,15 @@ Approach :
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
