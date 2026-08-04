@@ -60,6 +60,7 @@ Approach :
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
+| [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Binary Search
 |  |
@@ -115,4 +116,9 @@ Approach :
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
+| [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
