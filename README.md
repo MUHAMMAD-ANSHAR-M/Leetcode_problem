@@ -88,6 +88,7 @@ Approach :
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -208,6 +209,7 @@ Approach :
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -236,6 +238,7 @@ Approach :
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
+| [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
