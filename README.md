@@ -139,6 +139,7 @@ Approach :
 | [0258-add-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
@@ -163,6 +164,7 @@ Approach :
 | ------- |
 | [0050-powx-n](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
