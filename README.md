@@ -162,6 +162,7 @@ Approach :
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0326-power-of-three) |
@@ -320,4 +321,8 @@ Approach :
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
