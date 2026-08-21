@@ -208,6 +208,7 @@ Approach :
 | [0151-reverse-words-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -254,6 +255,7 @@ Approach :
 | [0283-move-zeroes](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0922-sort-array-by-parity-ii) |
