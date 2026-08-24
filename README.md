@@ -84,6 +84,7 @@ Approach :
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@ Approach :
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
@@ -197,6 +199,7 @@ Approach :
 | [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -221,6 +224,7 @@ Approach :
 | [0217-contains-duplicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +260,7 @@ Approach :
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0922-sort-array-by-parity-ii) |
