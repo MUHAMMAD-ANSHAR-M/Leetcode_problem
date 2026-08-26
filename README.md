@@ -143,6 +143,7 @@ Approach :
 | [0258-add-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
@@ -180,10 +181,12 @@ Approach :
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -347,4 +350,16 @@ Approach :
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
