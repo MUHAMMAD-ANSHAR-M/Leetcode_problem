@@ -174,6 +174,7 @@ Approach :
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0342-power-of-four) |
@@ -351,6 +352,7 @@ Approach :
 | [0021-merge-two-sorted-lists](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0206-reverse-linked-list) |
 ## Interactive
 |  |
 | ------- |
