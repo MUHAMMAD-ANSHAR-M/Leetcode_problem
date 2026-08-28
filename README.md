@@ -162,6 +162,7 @@ Approach :
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
