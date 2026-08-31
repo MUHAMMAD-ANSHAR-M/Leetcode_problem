@@ -88,6 +88,7 @@ Approach :
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
@@ -376,4 +377,5 @@ Approach :
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
