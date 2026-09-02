@@ -108,6 +108,7 @@ Approach :
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Approach :
 | [3536-maximum-product-of-two-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
