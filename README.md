@@ -109,6 +109,7 @@ Approach :
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Approach :
 | [0209-minimum-size-subarray-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
