@@ -101,6 +101,7 @@ Approach :
 | [1480-running-sum-of-1d-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -133,6 +134,7 @@ Approach :
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
