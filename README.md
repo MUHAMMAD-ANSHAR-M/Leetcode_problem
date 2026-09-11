@@ -247,6 +247,7 @@ Approach :
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
