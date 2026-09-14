@@ -186,6 +186,7 @@ Approach :
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1137-n-th-tribonacci-number) |
@@ -248,6 +249,7 @@ Approach :
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0392-is-subsequence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -301,6 +303,7 @@ Approach :
 | [0344-reverse-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0922-sort-array-by-parity-ii) |
