@@ -58,6 +58,7 @@ Approach :
 | [0001-two-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
@@ -242,6 +243,7 @@ Approach :
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0058-length-of-last-word) |
@@ -443,4 +445,8 @@ Approach :
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
