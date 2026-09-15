@@ -150,6 +150,7 @@ Approach :
 | [0007-reverse-integer](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0069-sqrtx) |
@@ -242,6 +243,7 @@ Approach :
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
@@ -334,6 +336,7 @@ Approach :
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
