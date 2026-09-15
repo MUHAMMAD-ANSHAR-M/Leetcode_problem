@@ -418,6 +418,7 @@ Approach :
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0176-second-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0511-game-play-analysis-i) |
 ## String Matching
 |  |
 | ------- |
