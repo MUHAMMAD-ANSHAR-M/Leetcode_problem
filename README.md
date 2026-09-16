@@ -65,6 +65,7 @@ Approach :
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -186,6 +187,7 @@ Approach :
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0392-is-subsequence) |
@@ -283,6 +285,7 @@ Approach :
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
