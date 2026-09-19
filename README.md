@@ -94,6 +94,7 @@ Approach :
 | [0643-maximum-average-subarray-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0977-squares-of-a-sorted-array) |
