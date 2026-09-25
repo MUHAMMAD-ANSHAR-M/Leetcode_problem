@@ -91,6 +91,7 @@ Approach :
 | [0287-find-the-duplicate-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
@@ -245,6 +246,7 @@ Approach :
 | [0268-missing-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
