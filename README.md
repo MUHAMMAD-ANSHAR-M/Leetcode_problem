@@ -276,6 +276,7 @@ Approach :
 | [0389-find-the-difference](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -505,10 +506,12 @@ Approach :
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
