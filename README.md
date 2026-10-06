@@ -277,6 +277,7 @@ Approach :
 | [0392-is-subsequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -311,6 +312,7 @@ Approach :
 | [0011-container-with-most-water](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -507,11 +509,13 @@ Approach :
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
