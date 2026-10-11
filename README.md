@@ -113,6 +113,7 @@ Approach :
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -474,6 +475,7 @@ Approach :
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
