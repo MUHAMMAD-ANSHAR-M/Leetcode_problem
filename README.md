@@ -121,6 +121,7 @@ Approach :
 | [3483-unique-3-digit-even-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3904-smallest-stable-index-ii) |
@@ -308,6 +309,7 @@ Approach :
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Approach :
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
