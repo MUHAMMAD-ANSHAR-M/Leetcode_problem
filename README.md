@@ -116,6 +116,7 @@ Approach :
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -260,6 +261,7 @@ Approach :
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -533,4 +535,12 @@ Approach :
 | [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
