@@ -114,6 +114,7 @@ Approach :
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -363,6 +364,7 @@ Approach :
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Quicksort
 |  |
 | ------- |
@@ -393,6 +395,7 @@ Approach :
 | [0054-spiral-matrix](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3498-reverse-degree-of-a-string) |
