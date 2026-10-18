@@ -111,6 +111,7 @@ Approach :
 | [1539-kth-missing-positive-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -394,6 +395,7 @@ Approach :
 | [0043-multiply-strings](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
