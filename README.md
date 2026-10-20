@@ -97,6 +97,7 @@ Approach :
 | [0628-maximum-product-of-three-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0905-sort-array-by-parity) |
@@ -153,6 +154,7 @@ Approach :
 | [0367-valid-perfect-square](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
