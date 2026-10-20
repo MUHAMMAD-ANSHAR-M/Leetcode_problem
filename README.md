@@ -114,6 +114,7 @@ Approach :
 | [1920-build-array-from-permutation](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
@@ -154,6 +155,7 @@ Approach :
 | [0704-binary-search](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Approach :
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
