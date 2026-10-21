@@ -298,6 +298,7 @@ Approach :
 | [0856-score-of-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
