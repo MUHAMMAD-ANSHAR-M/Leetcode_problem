@@ -204,6 +204,7 @@ Approach :
 | [1401-circle-and-rectangle-overlapping](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -306,6 +307,7 @@ Approach :
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2409-count-days-spent-together) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
