@@ -128,6 +128,7 @@ Approach :
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3467-transform-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -335,6 +336,7 @@ Approach :
 | [2089-find-target-indices-after-sorting-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3731-find-missing-elements) |
@@ -446,6 +448,7 @@ Approach :
 | ------- |
 | [0169-majority-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
