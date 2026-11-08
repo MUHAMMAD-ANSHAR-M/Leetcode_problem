@@ -108,6 +108,7 @@ Approach :
 | [0922-sort-array-by-parity-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -452,6 +453,7 @@ Approach :
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -544,6 +546,7 @@ Approach :
 | [0074-search-a-2d-matrix](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
@@ -554,12 +557,14 @@ Approach :
 | ------- |
 | [0112-path-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -599,5 +604,6 @@ Approach :
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MUHAMMAD-ANSHAR-M/Leetcode_problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
